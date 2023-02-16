@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EfectoNaranja
+  - Posible
+  - EfectoAzul
+  - PortalGun
+  - Cubo
+  - Piso
+  - Jugador
+  - PortalAzul
+  - PortalNaranja
+  - sostenedorbola
+  - Rompecubos
+  - BolaEnergia
+  - TiradorEnergia
+  - CambiadorLayerAzul
+  - CambiadorLayerNaranja
+  - CuboToba
+  - Default
+  - CuboSpawner
+  - RielIzquierdo
+  - RielDerecho
+  - PisoNoPortal
+  - sostenedorbola2
+  - Rompecubos2
+  - CuboPrefab
+  - AgarrarCubo
+  - DesactivarKinematic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Luz
+  - Water
+  - UI
+  - Interactable
+  - CharacterControllerIgnorar
+  - Posible
+  - layerNoPiso
+  - Character controller
+  - PostProcessing
+  - Manos
+  - IgnorarManos
+  - Dedos
+  - BotonGun
+  - Mesa
+  - Portales
+  - IgnorarCambiarLayer
+  - CambiarKinematic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
